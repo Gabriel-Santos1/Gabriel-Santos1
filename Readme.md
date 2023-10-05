@@ -43,6 +43,5 @@
 
 <br clear="both">
 
-<img src="https://github.com/Gabriel-Santos1/Gabriel-Santos1/main/snake.yml" alt="Snake animation" />
 
 ###
